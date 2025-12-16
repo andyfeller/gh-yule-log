@@ -6,7 +6,7 @@
 
 A [GitHub CLI](https://cli.github.com/) extension that turns your terminal into a festive, animated Yule log :fire:
 
-Enjoy your git logs over toasted marhmallows your favorite beverage :beers:
+Enjoy your Git logs over toasted marhmallows and your favorite beverage :beers:
 
 Vibe-coded with GitHub Copilot Agent and GPT-5.1 the week before Christmas 2025.
 
